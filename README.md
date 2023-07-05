@@ -12,17 +12,24 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 - [1) Data Visualization](#1-data-visualizations)
     - Etude de l'acces à l'eau potable Impact à l'echelle nationale, regionale et mondiale
 - [2) Statistical Data Analysis](#2-Statistical-Data-Analysis)
+    - Analysez les ventes d'une librairie avec Python
+    - Optimisez la gestion des données d'une boutique avec Python 
 - [3) Exploratory Data Analysis et Web Scraping](#3-Exploratory-Data-Analysis-et-Web-Scraping)
+    - Etude de marché avec Python
 - [4) Clustering](#4-Clustering)
+    - Etude de marché avec Python, expansion à l'international
 - [5) Data Modeling avec SQL](#5-Data-Modeling-avec-SQL)
+    - Créez et utilisez une base de données immobilière avec SQL
 - [6) Extract Transform Load (ETL)](#6-Extract-Transform-Load-ETL)
+      - Analysez des indicateurs de l'égalité Homme/Femme
+- [7) Machine Learning](#7-Machine-Learning)
 
 - [Contacts](#contacts)
 
 ## 1) Data Visualizations
 ### Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale
 #### **Code:** [Dashboard POWER BI](https://)
-#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data%20Visualization_Dashboard/Bellaoui_Samy_3_presentation_042023.pdf)   
+#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data%20Visualization_Dashboard/Etude%20de%20l'acces%20%C3%A0%20l'eau%20potable%20Impact%20%C3%A0%20l'echelle%20nationale%2C%20regionale%20et%20mondiale_Presentation.pdf)   
 #### **Description de la mission:** Consultant Data Analyst en mission auprès de l’ONG DWFA (Drinking Water For All).
 #### **Objectifs:** Identifier les pays qui rencontrent des difficultés d'accès à l'eau potable, afin de concentrer les efforts de la DWFA dans ces régions.
 #### **Compétences:** Analyse exploratoire des données, transformer les données, Data Modeling (MLD), DAX, Visualisation des données et définir les KPIs.  
@@ -86,7 +93,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 ### -----------------------------------------------------------------------------------------------------------------------------
 
 ## 6) Extract Transform Load (ETL)
-### Créez et utilisez une base de données immobilière avec SQL
+### Analysez des indicateurs de l'égalité Homme/Femme
 #### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
 #### **Description de la mission:** 
@@ -95,6 +102,16 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** 
 #### **Résultats:** 
 
+### -----------------------------------------------------------------------------------------------------------------------------
+
+## 7) Machine Learning
+### Détectez des faux billets bancaires avec Python
+#### **Code:** 
+#### **Description de la mission:** 
+#### **Objectifs:** 
+#### **Compétences:** 
+#### **Technology:** 
+#### **Résultats:** 
 
 
 ## Contacts
