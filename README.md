@@ -104,7 +104,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** 
 #### **Résultats:** 
 
-
+# 
 ## Contacts
 - LinkedIn: [@nktnlx](https)
 - E-mail: xxxxxx
