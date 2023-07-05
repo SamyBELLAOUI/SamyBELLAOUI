@@ -10,7 +10,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
   
 # Table of contents
 - [1) Data Visualization](#1-data-visualizations)
-- [Statistical Data Analysis](#Statistical-Data-Analysis)
+- [2) Statistical Data Analysis](#2-Statistical-Data-Analysis)
 - [Exploratory Data Analysis et Web Scraping](#Exploratory-Data-Analysis-et-Web-Scraping)
 - [Clustering](#Clustering)
 - [Data Modeling avec SQL](#Data-Modeling-avec-SQL)
@@ -30,7 +30,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Résultats:** Dashboard intératif et intuitif répondant à la question business via des graphiques adaptés aux types de données.
 
 ### -----------------------------------------------------------------------------------------------------------------------------
-## Statistical Data Analysis
+## 2) Statistical Data Analysis
 ### Analysez les ventes d'une librairie avec Python
 #### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Statistical%20Data%20Analysis/Analysez-les-ventes-d'une-librairie_Python.ipynb)
 #### **Description de la mission:** Consultant Data Analyst auprès d'une librairie qui a ouvert une boutique en ligne il y a 2 ans. L'objectif est de prendre des décisions stratégiques concernant les offres, les prix et la clientèle.
