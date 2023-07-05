@@ -9,7 +9,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 <br>
   
 # Table of contents
-- [1\) Data Visualization](#1.-data-visualizations)
+- [1\) Data Visualization](#1\)-data-visualizations)
 - [Statistical Data Analysis](#Statistical-Data-Analysis)
 - [Exploratory Data Analysis et Web Scraping](#Exploratory-Data-Analysis-et-Web-Scraping)
 - [Clustering](#Clustering)
