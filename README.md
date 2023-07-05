@@ -9,20 +9,17 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 <br>
   
 # Table of contents
-- [Data Visualization](#Data-Visualization-Projects)
-	+ [Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale](#video)
-- [Statistical Data Analysis](#Data-Visualization-Projects)
-	+ [Analysez les ventes d'une librairie avec Python](#video)
-  	+ [Optimisez la gestion des données d'une boutique avec Python.ipynb](#video)
-- [Clustering](#Data-Visualization-Projects)
-	+ [Etude de marché avec Python](#video)
-
-
+- [Data Visualization](#Data-Visualizations)
+- [Statistical Data Analysis](#Statistical-Data-Analysis)
+- [Exploratory Data Analysis, Web Scraping](#Exploratory-Data-Analysis,-Web-Scraping)
+- [Clustering](#Clustering)
+- [Data Modeling avec SQL](#Data-Modeling-avec-SQL)
+- [Extract Transform Load (ETL)](#Extract-Transform-Load-(ETL))
 
 - [Contacts](#contacts)
 
 # Portfolio Projects
-
+## Data Visualization
 ### Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale
 #### **Code:** [Dashboard POWER BI](https://)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data%20Visualization_Dashboard/Bellaoui_Samy_3_presentation_042023.pdf)   
@@ -33,7 +30,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Résultats:** Dashboard intératif et intuitif répondant à la question business via des graphiques adaptés aux types de données.
 
 ### -----------------------------------------------------------------------------------------------------------------------------
-
+## Statistical Data Analysis
 ### Analysez les ventes d'une librairie avec Python
 #### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Statistical%20Data%20Analysis/Analysez-les-ventes-d'une-librairie_Python.ipynb)
 #### **Description de la mission:** Consultant Data Analyst auprès d'une librairie qui a ouvert une boutique en ligne il y a 2 ans. L'objectif est de prendre des décisions stratégiques concernant les offres, les prix et la clientèle.
@@ -52,6 +49,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
+## Exploratory Data Analysis, Web Scraping
 ### Etude de marché avec Python
 #### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
@@ -60,6 +58,44 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Compétences:** 
 #### **Technology:** 
 #### **Résultats:** 
+
+### -----------------------------------------------------------------------------------------------------------------------------
+
+## Clustering
+### Etude de marché avec Python
+#### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
+#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
+#### **Description de la mission:** 
+#### **Objectifs:** 
+#### **Compétences:** 
+#### **Technology:** 
+#### **Résultats:** 
+
+### -----------------------------------------------------------------------------------------------------------------------------
+
+## Data Modeling avec SQL
+### Créez et utilisez une base de données immobilière avec SQL
+#### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
+#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
+#### **Description de la mission:** 
+#### **Objectifs:** 
+#### **Compétences:** 
+#### **Technology:** 
+#### **Résultats:** 
+
+### -----------------------------------------------------------------------------------------------------------------------------
+
+## Extract Transform Load (ETL)
+### Créez et utilisez une base de données immobilière avec SQL
+#### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
+#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
+#### **Description de la mission:** 
+#### **Objectifs:** 
+#### **Compétences:** 
+#### **Technology:** 
+#### **Résultats:** 
+
+
 
 ## Contacts
 - LinkedIn: [@nktnlx](https)
