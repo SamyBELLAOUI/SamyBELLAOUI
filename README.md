@@ -8,8 +8,9 @@ Hi, I'm Samy!
 Ce portfolio met en valeur mes compétences, partage mes projets et suit ma progression en Data Analytics et Data Science.
 <br>
   
-# Table of contents
+# Portfolio - Sommaire
 - [1) Data Visualization](#1-data-visualizations)
+    - [Etude](#1-data-visualizations)
 - [2) Statistical Data Analysis](#2-Statistical-Data-Analysis)
 - [3) Exploratory Data Analysis et Web Scraping](#3-Exploratory-Data-Analysis-et-Web-Scraping)
 - [4) Clustering](#4-Clustering)
@@ -18,8 +19,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 - [Contacts](#contacts)
 
-# Portfolio Projects
-## <span class="blue-text">1) Data Visualizations</span>
+## 1) Data Visualizations
 ### Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale
 #### **Code:** [Dashboard POWER BI](https://)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data%20Visualization_Dashboard/Bellaoui_Samy_3_presentation_042023.pdf)   
