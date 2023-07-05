@@ -16,7 +16,6 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
     - Etude de santé publique avec Python
 - [3) Exploratory Data Analysis et Web Scraping](#3-Exploratory-Data-Analysis-et-Web-Scraping)
     - Etude de marché avec Python
-    - 
 - [4) Clustering](#4-Clustering)
     - Etude de marché avec Python, expansion à l'international
 - [5) Data Modeling avec SQL](#5-Data-Modeling-avec-SQL)
@@ -118,5 +117,5 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 # 
 ## Contacts
-- LinkedIn: [@nktnlx](https)
+- LinkedIn: [@](https)
 - E-mail: xxxxxx
