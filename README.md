@@ -13,7 +13,6 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
     - Etude de l'acces à l'eau potable Impact à l'echelle nationale, regionale et mondiale
 - [2) Statistical Data Analysis](#2-Statistical-Data-Analysis)
     - Analysez les ventes d'une librairie avec Python
-    - Optimisez la gestion des données d'une boutique avec Python 
 - [3) Exploratory Data Analysis et Web Scraping](#3-Exploratory-Data-Analysis-et-Web-Scraping)
     - Etude de marché avec Python
 - [4) Clustering](#4-Clustering)
@@ -29,7 +28,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 ## 1) Data Visualizations
 ### Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale
 #### **Code:** [Dashboard POWER BI](https://)
-#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data%20Visualization_Dashboard/Etude%20de%20l'acces%20%C3%A0%20l'eau%20potable%20Impact%20%C3%A0%20l'echelle%20nationale%2C%20regionale%20et%20mondiale_Presentation.pdf)   
+#### **Presentation:** [`Présentation`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data%20Visualization_Dashboard/Etude%20de%20l'acces%20%C3%A0%20l'eau%20potable%20Impact%20%C3%A0%20l'echelle%20nationale%2C%20regionale%20et%20mondiale_Presentation.pdf)   
 #### **Description de la mission:** Consultant Data Analyst en mission auprès de l’ONG DWFA (Drinking Water For All).
 #### **Objectifs:** Identifier les pays qui rencontrent des difficultés d'accès à l'eau potable, afin de concentrer les efforts de la DWFA dans ces régions.
 #### **Compétences:** Analyse exploratoire des données, transformer les données, Data Modeling (MLD), DAX, Visualisation des données et définir les KPIs.  
@@ -46,20 +45,12 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** Python (pandas, numpy, seaborn, matplotlib, scipy.stats), Jupyter notebook (Anaconda)    
 #### **Résultats:** Mise en évidence de corrélations entre variables et des habitudes consommateurs par tranche d'âge.
 
-### Optimisez la gestion des données d'une boutique avec Python 
-##### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Statistical%20Data%20Analysis/Optimisez%20la%20gestion%20des%20donn%C3%A9es%20d'une%20boutique%20avec%20Python.ipynb)
-#### **Description de la mission:** 
-#### **Objectifs:** 
-#### **Compétences:** Analyse exploratoire des données, analyse univariée.
-#### **Technology:** 
-#### **Résultats:** 
-
 ### -----------------------------------------------------------------------------------------------------------------------------
 
 ## 3) Exploratory Data Analysis et Web Scraping
-### Etude de marché avec Python
-#### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
-#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
+### Etude de marché avec Python 1/2
+#### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Exploratory-Data-Analysis%2C%20Web%20Scraping/Etude%20de%20march%C3%A9%20avec%20Python_Analyse%20exploratoire%20des%20donn%C3%A9es.ipynb)
+#### **Presentation:** [`Synthèse`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Exploratory-Data-Analysis%2C%20Web%20Scraping/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
 #### **Description de la mission:** 
 #### **Objectifs:** 
 #### **Compétences:** 
@@ -69,9 +60,9 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 ### -----------------------------------------------------------------------------------------------------------------------------
 
 ## 4) Clustering
-### Etude de marché avec Python
-#### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
-#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
+### Etude de marché avec Python 2/2
+#### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
+#### **Presentation:** [`Synthèse`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
 #### **Description de la mission:** 
 #### **Objectifs:** 
 #### **Compétences:** 
@@ -82,8 +73,8 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 ## 5) Data Modeling avec SQL
 ### Créez et utilisez une base de données immobilière avec SQL
-#### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
-#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
+#### **Modèle Logique des Données:** [MLD_Schèma](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data-Modeling_SQL/Cr%C3%A9ez%20et%20utilisez%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re%20avec%20SQL_Schema%20MLD.pdf)
+#### **Presentation:** [`Synthèse technique`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data-Modeling_SQL/Cr%C3%A9ez%20et%20utilisez%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re%20avec%20SQL_Base%20de%20donn%C3%A9es.pdf)   
 #### **Description de la mission:** 
 #### **Objectifs:** 
 #### **Compétences:** 
@@ -94,8 +85,8 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 ## 6) Extract Transform Load (ETL)
 ### Analysez des indicateurs de l'égalité Homme/Femme
-#### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
-#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
+#### **Code:** [Workflow](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/ETL_Extract%20Transform%20Load/workflow.svg)
+#### **Presentation:** [`Synthèse`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/ETL_Extract%20Transform%20Load/Analysez%20des%20indicateurs%20de%20l'%C3%A9galit%C3%A9%20femme-homme%20avec%20Knime_Rapport.pdf)   
 #### **Description de la mission:** 
 #### **Objectifs:** 
 #### **Compétences:** 
