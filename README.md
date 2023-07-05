@@ -20,9 +20,9 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 - [5) Data Modeling avec SQL](#5-Data-Modeling-avec-SQL)
     - Créez et utilisez une base de données immobilière avec SQL
 - [6) Extract Transform Load (ETL)](#6-Extract-Transform-Load-ETL)
-      - Analysez des indicateurs de l'égalité Homme/Femme
+    - Analysez des indicateurs de l'égalité Homme/Femme
 - [7) Machine Learning](#7-Machine-Learning)
-
+    - Détectez des faux billets bancaires avec Python
 - [Contacts](#contacts)
 
 ## 1) Data Visualizations
@@ -51,11 +51,11 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 ### Etude de marché avec Python 1/2
 #### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Exploratory-Data-Analysis%2C%20Web%20Scraping/Etude%20de%20march%C3%A9%20avec%20Python_Analyse%20exploratoire%20des%20donn%C3%A9es.ipynb)
 #### **Presentation:** [`Synthèse`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Exploratory-Data-Analysis%2C%20Web%20Scraping/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
-#### **Description de la mission:** 
-#### **Objectifs:** 
-#### **Compétences:** 
-#### **Technology:** 
-#### **Résultats:** 
+#### **Description de la mission:** Une entreprise française d'agroalimentaire, souhaite se développer à l'international sans avoir encore déterminé les pays candidats.  
+#### **Objectifs:** Effectuer une classification ascendante hiérarchique (CAH) et un clustering avec l'algorithme du K-means pour identifier les groupes pertinents. Analyser les centroïdes des classes et utiliser l'Analyse en Composantes Principales (ACP) pour visualiser les résultats et mieux comprendre les liens entre les variables et les groupes de pays identifiés.
+#### **Compétences:** Web scraping, Analyse exploratoire (gestion des manquants et outliers à l'aide de l'algorithme du K plus proches voisins (K-nearest neighbors, KNN).
+#### **Technology:** Python, Pandas, numpy, seaborn, matplotlib, Beautifoul Soup, Python Outlier Detection / PyOD
+#### **Résultats:** Création d'un fichier .CSV prêt à être utilisé pour le projet Clustering.
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
@@ -63,11 +63,11 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 ### Etude de marché avec Python 2/2
 #### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
 #### **Presentation:** [`Synthèse`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
-#### **Description de la mission:** 
-#### **Objectifs:** 
-#### **Compétences:** 
-#### **Technology:** 
-#### **Résultats:** 
+#### **Description de la mission:** Une entreprise française d'agroalimentaire, souhaite se développer à l'international sans avoir encore déterminé les pays candidats.  
+#### **Objectifs:** Effectuer une classification ascendante hiérarchique (CAH) et un clustering avec l'algorithme du K-means pour identifier les groupes pertinents. Analyser les centroïdes des classes et utiliser une ACP pour visualiser les résultats et mieux comprendre les liens entre les variables et les groupes de pays identifiés. 
+#### **Compétences:** Explorer des données pour synthétiser des variables, Clustering non-supervisé (CAH, K-means) et réduction des dimensionalité avec l'Analyse en Composantes Principales (ACP), Data visualisation (carte du monde pour conclure)
+#### **Technology:** Python, Pandas, numpy, seaborn, matplotlib, Geospatial mapping et cartographie (Geopandas)
+#### **Résultats:** 182 pays répartis en 7 Clusters dont 3 sont à proscrire pour se développer à l'international.
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
@@ -75,11 +75,12 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 ### Créez et utilisez une base de données immobilière avec SQL
 #### **Modèle Logique des Données:** [MLD_Schèma](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data-Modeling_SQL/Cr%C3%A9ez%20et%20utilisez%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re%20avec%20SQL_Schema%20MLD.pdf)
 #### **Presentation:** [`Synthèse technique`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data-Modeling_SQL/Cr%C3%A9ez%20et%20utilisez%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re%20avec%20SQL_Base%20de%20donn%C3%A9es.pdf)   
-#### **Description de la mission:** 
-#### **Objectifs:** 
-#### **Compétences:** 
-#### **Technology:** 
-#### **Résultats:** 
+#### **Requêtes SQL:** [`Requêtes`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data-Modeling_SQL/Cr%C3%A9ez%20et%20utilisez%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re_Requetes%20SQL.pdf)   
+#### **Description de la mission:** Consultant Data analyst chez un réseau national d'agences immobilières, le directeur général souhaite que l'agence se démarque en créant un modèle pour prédire plus efficacement le prix de vente des biens immobiliers. 
+#### **Objectifs:** Modifier la base de données en incluant les données régionales et de population. Préparer le dictionnaire des données et présenter le schéma relationnel normalisé lors de la réunion de validation. Implémenter les tables dans la base de données et effectuer les requêtes pour extraire les données nécessaires.
+#### **Compétences:** Créer le schéma d'une base de données, créer des tables dans une base de données, nettoyer, transformer et charger des données dans une base de données, effectuer des requêtes SQL pour répondre à une problématique métier.
+#### **Technology:** SQL, MySQL Workbench, SQL Power Architect, Power Query
+#### **Résultats:** Réponse au 20 questions et mise en évidence des tendances du marché.
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
