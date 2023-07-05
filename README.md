@@ -11,19 +11,21 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 # Table of contents
 - [Data Visualization](#Data-Visualization-Projects)
 	+ [Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale](#video)
-- [Statistical-Descriptive-Analysis](#Data-Visualization-Projects)
+- [Statistical Data Analysis](#Data-Visualization-Projects)
 	+ [Analysez les ventes d'une librairie avec Python](#video)
-  	+ [Etude de marché avec Python](#video)
-- [Web Scraping](#Data-Visualization-Projects)
+  	+ [Optimisez la gestion des données d'une boutique avec Python.ipynb](#video)
+- [Clustering](#Data-Visualization-Projects)
 	+ [Etude de marché avec Python](#video)
+
+
 
 - [Contacts](#contacts)
 
 # Portfolio Projects
 
 ### Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale
-#### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Data-Projects/blob/d3038bd5c014af5df8369759cc5eafb8b6644e33/Statistical-Descriptive-Analysis/Analysez-les-ventes-d'une-librairie_Python.ipynb)
-#### **Presentation:** [`Slides`](https://github.com/SamyBELLAOUI/Data-Visualization/blob/main/Data-Visualization/Bellaoui_Samy_3_presentation_042023.pdf)   
+#### **Code:** [Dashboard POWER BI](https://)
+#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data%20Visualization_Dashboard/Bellaoui_Samy_3_presentation_042023.pdf)   
 #### **Description de la mission:** Consultant Data Analyst en mission auprès de l’ONG DWFA (Drinking Water For All).
 #### **Objectifs:** Identifier les pays qui rencontrent des difficultés d'accès à l'eau potable, afin de concentrer les efforts de la DWFA dans ces régions.
 #### **Compétences:** Analyse exploratoire des données, transformer les données, Data Modeling (MLD), DAX, Visualisation des données et définir les KPIs.  
@@ -33,24 +35,31 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 ### -----------------------------------------------------------------------------------------------------------------------------
 
 ### Analysez les ventes d'une librairie avec Python
-#### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Data-Projects/blob/d3038bd5c014af5df8369759cc5eafb8b6644e33/Statistical-Descriptive-Analysis/Analysez-les-ventes-d'une-librairie_Python.ipynb)
+#### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Statistical%20Data%20Analysis/Analysez-les-ventes-d'une-librairie_Python.ipynb)
 #### **Description de la mission:** Consultant Data Analyst auprès d'une librairie qui a ouvert une boutique en ligne il y a 2 ans. L'objectif est de prendre des décisions stratégiques concernant les offres, les prix et la clientèle.
 #### **Objectifs:** La mission se divise en 2 parties : une analyse des indicateurs de vente et une analyse du comportement des clients en ligne en comparaison avec les clients des librairies physiques.
 #### **Compétences:** Analyse exploratoire des données, tests statistiques du Khi2, test de normalité (shapiro-wilk), test de corrélation (Spearman et Pearson), analyse bivariée (régression linéaire, ANOVA), analyser des séries temporelles.
 #### **Technology:** Python (pandas, numpy, seaborn, matplotlib, scipy.stats), Jupyter notebook (Anaconda)    
 #### **Résultats:** Mise en évidence de corrélations entre variables et des habitudes consommateurs par tranche d'âge.
 
+### Optimisez la gestion des données d'une boutique avec Python 
+##### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Statistical%20Data%20Analysis/Optimisez%20la%20gestion%20des%20donn%C3%A9es%20d'une%20boutique%20avec%20Python.ipynb)
+#### **Description de la mission:** 
+#### **Objectifs:** 
+#### **Compétences:** Analyse exploratoire des données, analyse univariée.
+#### **Technology:** 
+#### **Résultats:** 
+
 ### -----------------------------------------------------------------------------------------------------------------------------
 
-### Etude de marché avec Python 
-##### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Data-Projects/blob/d3038bd5c014af5df8369759cc5eafb8b6644e33/Statistical-Descriptive-Analysis/Analysez-les-ventes-d'une-librairie_Python.ipynb)
-#### **Presentation:** [`Slides`](https://github.com/SamyBELLAOUI/Data-Visualization/blob/main/Data-Visualization/Bellaoui_Samy_3_presentation_042023.pdf)   
-#### **Description de la mission:** Consultant Data Analyst auprès d'une librairie qui a ouvert une boutique en ligne il y a 2 ans. L'objectif est de prendre des décisions stratégiques concernant les offres, les prix et la clientèle.
-#### **Objectifs:** La mission se divise en 2 parties : une analyse des indicateurs de vente et une analyse du comportement des clients en ligne en comparaison avec les clients des librairies physiques.
-#### **Compétences:** Analyse exploratoire des données, tests statistiques du Khi2, test de normalité (shapiro-wilk), test de corrélation (Spearman et Pearson), analyse bivariée (régression linéaire, ANOVA), analyser des séries temporelles.
-#### **Technology:** Python (pandas, numpy, seaborn, matplotlib, scipy.stats), Jupyter notebook (Anaconda)    
-#### **Résultats:** Mise en évidence de corrélations entre variables et des habitudes des consommateurs par trnache d'âge.
-
+### Etude de marché avec Python
+#### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
+#### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
+#### **Description de la mission:** 
+#### **Objectifs:** 
+#### **Compétences:** 
+#### **Technology:** 
+#### **Résultats:** 
 
 ## Contacts
 - LinkedIn: [@nktnlx](https)
