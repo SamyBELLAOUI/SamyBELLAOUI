@@ -16,7 +16,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 # Portfolio Projects
 
 ### Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale
-##### **Code:** [Jupyter](https://github.com/SamyBELLAOUI/Data-Projects/tree/main/Statistical-Descriptive-Analysis)
+##### **Code:** [Jupyter](https://github.com/SamyBELLAOUI/Data-Projects/blob/d3038bd5c014af5df8369759cc5eafb8b6644e33/Statistical-Descriptive-Analysis/#C1)
 
 
 ##### **Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
