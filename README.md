@@ -1,9 +1,3 @@
-<style>
-.blue-text {
-    color: blue;
-}
-</style>
-
 # Samy BELLAOUI - Data Analysis Portfolio 
 
 # About
