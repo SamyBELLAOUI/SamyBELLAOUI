@@ -11,7 +11,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 # Table of contents
 - [Data Visualization](#Data-Visualizations)
 - [Statistical Data Analysis](#Statistical-Data-Analysis)
-- [Exploratory Data Analysis_Web Scraping](#Exploratory-Data-Analysis-et-Web-Scraping)
+- [Exploratory Data Analysis_Web Scraping](#Exploratory-Data-Analysis-_Web-Scraping)
 - [Clustering](#Clustering)
 - [Data Modeling avec SQL](#Data-Modeling-avec-SQL)
 - [Extract Transform Load (ETL)](#Extract-Transform-Load-ETL)
