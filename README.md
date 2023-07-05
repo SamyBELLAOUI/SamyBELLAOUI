@@ -11,10 +11,10 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 # Table of contents
 - [1) Data Visualization](#1-data-visualizations)
 - [2) Statistical Data Analysis](#2-Statistical-Data-Analysis)
-- [Exploratory Data Analysis et Web Scraping](#Exploratory-Data-Analysis-et-Web-Scraping)
-- [Clustering](#Clustering)
-- [Data Modeling avec SQL](#Data-Modeling-avec-SQL)
-- [Extract Transform Load (ETL)](#Extract-Transform-Load-ETL)
+- [3) Exploratory Data Analysis et Web Scraping](#3-Exploratory-Data-Analysis-et-Web-Scraping)
+- [4) Clustering](#4-Clustering)
+- [5) Data Modeling avec SQL](#5-Data-Modeling-avec-SQL)
+- [6) Extract Transform Load (ETL)](#6-Extract-Transform-Load-ETL)
 
 - [Contacts](#contacts)
 
@@ -49,7 +49,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
-## Exploratory Data Analysis et Web Scraping
+## 3) Exploratory Data Analysis et Web Scraping
 ### Etude de marché avec Python
 #### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
@@ -61,7 +61,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
-## Clustering
+## 4) Clustering
 ### Etude de marché avec Python
 #### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
@@ -73,7 +73,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
-## Data Modeling avec SQL
+## 5) Data Modeling avec SQL
 ### Créez et utilisez une base de données immobilière avec SQL
 #### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
@@ -85,7 +85,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
-## Extract Transform Load (ETL)
+## 6) Extract Transform Load (ETL)
 ### Créez et utilisez une base de données immobilière avec SQL
 #### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
