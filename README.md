@@ -9,7 +9,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 <br>
   
 # Table of contents
-- [1)Data Visualization](#Data-Visualizations)
+- [1.Data Visualization](#1.Data-Visualizations)
 - [Statistical Data Analysis](#Statistical-Data-Analysis)
 - [Exploratory Data Analysis et Web Scraping](#Exploratory-Data-Analysis-et-Web-Scraping)
 - [Clustering](#Clustering)
@@ -19,7 +19,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 - [Contacts](#contacts)
 
 # Portfolio Projects
-## 1)Data Visualization
+## 1.Data Visualization
 ### Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale
 #### **Code:** [Dashboard POWER BI](https://)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data%20Visualization_Dashboard/Bellaoui_Samy_3_presentation_042023.pdf)   
