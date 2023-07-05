@@ -14,7 +14,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 - [Exploratory Data Analysis, Web Scraping](#Exploratory-Data-Analysis,-Web-Scraping)
 - [Clustering](#Clustering)
 - [Data Modeling avec SQL](#Data-Modeling-avec-SQL)
-- [Extract Transform Load (ETL)](#Extract-Transform-Load-(ETL))
+- [Extract Transform Load (ETL)](#Extract-Transform-Load-ETL)
 
 - [Contacts](#contacts)
 
