@@ -1,3 +1,9 @@
+<style>
+.blue-text {
+    color: blue;
+}
+</style>
+
 # Samy BELLAOUI - Data Analysis Portfolio 
 
 # About
@@ -19,7 +25,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 - [Contacts](#contacts)
 
 # Portfolio Projects
-## <span style="color:blue;">1) Data Visualizations</span>
+## <span class="blue-text">1) Data Visualizations</span>
 ### Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale
 #### **Code:** [Dashboard POWER BI](https://)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data%20Visualization_Dashboard/Bellaoui_Samy_3_presentation_042023.pdf)   
