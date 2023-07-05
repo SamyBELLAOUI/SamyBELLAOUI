@@ -36,7 +36,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** Power Query, Power BI    
 #### **Résultats:** Dashboard intératif et intuitif répondant à la question business via des graphiques adaptés aux types de données.
 
-#### -------------------------------------------------------------------------
+#### ----------------------------------------------------------------------------------------------------------
 ## **2) Statistical Data Analysis**
 ### Analysez les ventes d'une librairie avec Python
 #### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Statistical%20Data%20Analysis/Analysez-les-ventes-d'une-librairie_Python.ipynb)
@@ -55,8 +55,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** Python (pandas, matplotlib), Geospatial mapping et cartographie (Geopandas), Jupyter notebook (Anaconda)    
 #### **Résultats:** 
 
-#
-
+#### ----------------------------------------------------------------------------------------------------------
 ## **3) Exploratory Data Analysis et Web Scraping**
 ### Etude de marché avec Python 1/2
 #### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Exploratory-Data-Analysis%2C%20Web%20Scraping/Etude%20de%20march%C3%A9%20avec%20Python_Analyse%20exploratoire%20des%20donn%C3%A9es.ipynb)
@@ -67,8 +66,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** Python, Pandas, numpy, seaborn, matplotlib, Beautifoul Soup, Python Outlier Detection / PyOD
 #### **Résultats:** Création d'un fichier .CSV prêt à être utilisé pour le projet Clustering.
 
-#
-
+#### ----------------------------------------------------------------------------------------------------------
 ## **4) Clustering**
 ### Etude de marché avec Python 2/2
 #### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
@@ -79,8 +77,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** Python, Pandas, numpy, seaborn, matplotlib, Geospatial mapping et cartographie (Geopandas)
 #### **Résultats:** 182 pays répartis en 7 Clusters dont 3 sont à proscrire pour se développer à l'international.
 
-#
-
+#### ----------------------------------------------------------------------------------------------------------
 ## **5) Data Modeling avec SQL**
 ### Créez et utilisez une base de données immobilière avec SQL
 #### **Modèle Logique des Données:** [MLD_Schèma](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Data-Modeling_SQL/Cr%C3%A9ez%20et%20utilisez%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re%20avec%20SQL_Schema%20MLD.pdf)
@@ -92,8 +89,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** SQL, MySQL Workbench, SQL Power Architect, Power Query
 #### **Résultats:** Réponse au 20 questions et mise en évidence des tendances du marché.
 
-#
-
+#### ----------------------------------------------------------------------------------------------------------
 ## **6) Extract Transform Load (ETL)**
 ### Analysez des indicateurs de l'égalité Homme/Femme
 #### **Code:** [Workflow](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/ETL_Extract%20Transform%20Load/workflow.svg)
@@ -104,8 +100,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** KNIME (ETL software), Excel
 #### **Résultats:** Workflow opérationnel pour générer un fichier .CSV destiné à créer des Dashbords.
 
-#
-
+#### ----------------------------------------------------------------------------------------------------------
 ## **7) Machine Learning**
 ### Détectez des faux billets bancaires avec Python
 #### **Code:** 
