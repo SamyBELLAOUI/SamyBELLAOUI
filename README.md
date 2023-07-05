@@ -36,7 +36,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** Power Query, Power BI    
 #### **Résultats:** Dashboard intératif et intuitif répondant à la question business via des graphiques adaptés aux types de données.
 
-#### ----------------------------------------------------------
+#### -------------------------------------------------------------------------
 ## **2) Statistical Data Analysis**
 ### Analysez les ventes d'une librairie avec Python
 #### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Statistical%20Data%20Analysis/Analysez-les-ventes-d'une-librairie_Python.ipynb)
