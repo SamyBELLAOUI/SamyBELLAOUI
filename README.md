@@ -13,8 +13,10 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
     - Etude de l'acces à l'eau potable Impact à l'echelle nationale, regionale et mondiale
 - [2) Statistical Data Analysis](#2-Statistical-Data-Analysis)
     - Analysez les ventes d'une librairie avec Python
+    - Etude de santé publique avec Python
 - [3) Exploratory Data Analysis et Web Scraping](#3-Exploratory-Data-Analysis-et-Web-Scraping)
     - Etude de marché avec Python
+    - 
 - [4) Clustering](#4-Clustering)
     - Etude de marché avec Python, expansion à l'international
 - [5) Data Modeling avec SQL](#5-Data-Modeling-avec-SQL)
@@ -45,6 +47,15 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Technology:** Python (pandas, numpy, seaborn, matplotlib, scipy.stats), Jupyter notebook (Anaconda)    
 #### **Résultats:** Mise en évidence de corrélations entre variables et des habitudes consommateurs par tranche d'âge.
 
+#
+### Etude de santé publique avec Python
+#### **Code:** [Jupyter notebook](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Exploratory-Data-Analysis%2C%20Web%20Scraping/Etude%20de%20sant%C3%A9%20publique%20avec%20Python.ipynb)
+#### **Description de la mission:** Consultant Data Analyst au sein de l'équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), dont l'objectif est de contribuer à l'éradication de la faim dans le monde.
+#### **Objectifs:** Projet d'étude sur l'alimentation mondiale afin de contribuer à la réalisation d'analyses approfondies et fournir des insights pertinents sur la sous-nutrition à l'échelle mondiale.
+#### **Compétences:** Analyse exploratoire des données.
+#### **Technology:** Python (pandas, matplotlib), Geospatial mapping et cartographie (Geopandas), Jupyter notebook (Anaconda)    
+#### **Résultats:** 
+
 ### -----------------------------------------------------------------------------------------------------------------------------
 
 ## 3) Exploratory Data Analysis et Web Scraping
@@ -65,7 +76,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Presentation:** [`Synthèse`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
 #### **Description de la mission:** Une entreprise française d'agroalimentaire, souhaite se développer à l'international sans avoir encore déterminé les pays candidats.  
 #### **Objectifs:** Effectuer une classification ascendante hiérarchique (CAH) et un clustering avec l'algorithme du K-means pour identifier les groupes pertinents. Analyser les centroïdes des classes et utiliser une ACP pour visualiser les résultats et mieux comprendre les liens entre les variables et les groupes de pays identifiés. 
-#### **Compétences:** Explorer des données pour synthétiser des variables, Clustering non-supervisé (CAH, K-means) et réduction des dimensionalité avec l'Analyse en Composantes Principales (ACP), Data visualisation (carte du monde pour conclure)
+#### **Compétences:** Explorer des données pour synthétiser des variables, Clustering non-supervisé (CAH, K-means) et réduction des dimensionalité avec l'Analyse en Composantes Principales (ACP), Data visualisation (carte du monde pour conclure), normalisation des données.
 #### **Technology:** Python, Pandas, numpy, seaborn, matplotlib, Geospatial mapping et cartographie (Geopandas)
 #### **Résultats:** 182 pays répartis en 7 Clusters dont 3 sont à proscrire pour se développer à l'international.
 
@@ -88,11 +99,11 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 ### Analysez des indicateurs de l'égalité Homme/Femme
 #### **Code:** [Workflow](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/ETL_Extract%20Transform%20Load/workflow.svg)
 #### **Presentation:** [`Synthèse`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/ETL_Extract%20Transform%20Load/Analysez%20des%20indicateurs%20de%20l'%C3%A9galit%C3%A9%20femme-homme%20avec%20Knime_Rapport.pdf)   
-#### **Description de la mission:**  
-#### **Objectifs:** 
-#### **Compétences:** 
-#### **Technology:** 
-#### **Résultats:** 
+#### **Description de la mission:** Pour améliorer la marque employeur et attirer des talents, la direction des ressources humaines souhaite développer une politique volontariste en faveur de l'égalité femmes-hommes. 
+#### **Objectifs:** Automatiser la création d'un rapport diagnostique sur l'égalité professionnelle femmes-hommes à l'aide de KNIME. L'objectif est de sélectionner au moins cinq indicateurs pertinents tout en veillant strictement au respect du RGPD pour garantir la confidentialité des données.
+#### **Compétences:** Collecter des données en respectant le RGPD, transférer des données vers une zone de préparation, préparer des données pour l'analyse en respectant les normes internes à l’entreprise 
+#### **Technology:** KNIME (ETL software), Excel
+#### **Résultats:** Workflow opérationnel pour générer un fichier .CSV destiné à créer des Dashbords.
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
@@ -101,8 +112,8 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 #### **Code:** 
 #### **Description de la mission:** 
 #### **Objectifs:** 
-#### **Compétences:** 
-#### **Technology:** 
+#### **Compétences:** Régression linéaire multiple, régression logistique, algorithme supervisé, normalisation des données.
+#### **Technology:** Python, 
 #### **Résultats:** 
 
 # 
