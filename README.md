@@ -10,7 +10,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
   
 # Portfolio - Sommaire
 - [1) Data Visualization](#1-data-visualizations)
-    - [Etude](#1-data-visualizations)
+    - [Etude de l'acces à l'eau potable Impact à l'echelle nationale, regionale et mondiale]
 - [2) Statistical Data Analysis](#2-Statistical-Data-Analysis)
 - [3) Exploratory Data Analysis et Web Scraping](#3-Exploratory-Data-Analysis-et-Web-Scraping)
 - [4) Clustering](#4-Clustering)
