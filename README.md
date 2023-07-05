@@ -11,7 +11,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 # Table of contents
 - [Data Visualization](#Data-Visualizations)
 - [Statistical Data Analysis](#Statistical-Data-Analysis)
-- [Exploratory Data Analysis_Web Scraping](#Exploratory-Data-Analysis-_Web-Scraping)
+- [Exploratory Data Analysis et Web Scraping](#Exploratory-Data-Analysis-et-Web-Scraping)
 - [Clustering](#Clustering)
 - [Data Modeling avec SQL](#Data-Modeling-avec-SQL)
 - [Extract Transform Load (ETL)](#Extract-Transform-Load-ETL)
@@ -49,7 +49,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
-## Exploratory Data Analysis, Web Scraping
+## Exploratory Data Analysis et Web Scraping
 ### Etude de marché avec Python
 #### **Code:** [Dashboard POWER BI](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Clustering_Visualisations.ipynb)
 #### **Presentation:** [`Résumé`](https://github.com/SamyBELLAOUI/Portfolio_DATA_Projects/blob/main/Clustering/Etude%20de%20march%C3%A9%20avec%20Python_Pr%C3%A9sentation.pdf)   
