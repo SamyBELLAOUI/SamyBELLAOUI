@@ -24,7 +24,7 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
     - Analysez des indicateurs de l'égalité Homme/Femme
 - [7) Machine Learning](#7-Machine-Learning)
     - Détectez des faux billets bancaires avec Python
-- [Contacts](#contacts)
+- [Contacts](#Contacts)
 
 ## 1) Data Visualizations
 ### Étude de l'accès à l'eau potable : Impact à l'échelle nationale, régionale et mondiale
