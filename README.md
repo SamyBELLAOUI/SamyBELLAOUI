@@ -1,4 +1,4 @@
-# Samy BELLAOUI - Data Analysis Portfolio 
+# Samy BELLAOUI, Portfolio in Data Analytics
 
 # About
 
@@ -8,7 +8,7 @@ Hi, I'm Samy!
 Ce portfolio met en valeur mes compétences, partage mes projets et suit ma progression en Data Analytics et Data Science.
 <br>
   
-# Portfolio - Sommaire
+# Table of contents - Portfolio 
 - [1) Data Visualization](#1-data-visualizations)
     - Etude de l'acces à l'eau potable Impact à l'echelle nationale, regionale et mondiale
 - [2) Statistical Data Analysis](#2-Statistical-Data-Analysis)
