@@ -113,5 +113,5 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 
 # 
 ## Contacts
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/samy-bellaoui/)https://www.linkedin.com/in/samy-bellaoui/)
+- LinkedIn: [LinkedIn](#https://www.linkedin.com/in/samy-bellaoui/)https://www.linkedin.com/in/samy-bellaoui/)
 - E-mail: xxxxxx
