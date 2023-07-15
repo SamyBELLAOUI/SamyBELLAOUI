@@ -105,8 +105,8 @@ Ce portfolio met en valeur mes compétences, partage mes projets et suit ma prog
 ## **7) Machine Learning**
 ### Détectez des faux billets bancaires avec Python
 #### **Code:** [Jupyter notebook](https://)
-#### **Description de la mission:** •	Créer, entraîner, évaluer 3 modèles de Machine Learning ainsi que leurs performances, sélection du modèle le plus adapté.
-#### **Objectifs:**Créer un modèle prédictif capable d'identifier automatiquement les faux billets en analysant les dimensions géométriques et les caractéristiques constitutives.  
+#### **Description de la mission:** Mission de consulting au sein de l'Organisation nationale de lutte contre le faux-monnayage (ONCFM).
+#### **Objectifs:**Créer un modèle prédictif capable d'identifier automatiquement les faux billets en analysant les dimensions géométriques et les caractéristiques constitutives. Créer, entraîner, évaluer 3 modèles de Machine Learning ainsi que leurs performances, sélection du modèle le plus adapté.
 #### **Compétences:** Régression linéaire multiple, régression logistique, algorithme supervisé, normalisation des données.
 #### **Technology:** Python (pandas, numpy, seaborn, matplotlib, scikit-learn, yellowbricks) 
 #### **Résultats:** Choix du modèle SVC car plus adapté aux besoins du projet. 
